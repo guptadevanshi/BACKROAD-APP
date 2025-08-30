@@ -16,14 +16,16 @@ const About = () => {
           <article className="about-info">
             <h3>explore the difference</h3>
             <p>
-              Lorem ipsum, dolor sit amet consectetur adipisicing elit.
-              Aspernatur quisquam harum nam cumque temporibus explicabo dolorum
-              sapiente odio unde dolor?
+              Traveling with Backroads isn’t just about reaching a destination -
+              it’s about experiencing the journey. From handpicked locations and
+              comfortable stays to guided adventures that immerse you in local
+              culture, we make every trip unforgettable.
             </p>
             <p>
-              Lorem ipsum, dolor sit amet consectetur adipisicing elit.
-              Aspernatur quisquam harum nam cumque temporibus explicabo dolorum
-              sapiente odio unde dolor?
+              Whether you’re exploring hidden gems, enjoying breathtaking
+              landscapes, or connecting with fellow travelers, our tours are
+              designed to give you more than just memories - they give you
+              stories to share for a lifetime.
             </p>
             <a href="#" className="btn">
               read more
